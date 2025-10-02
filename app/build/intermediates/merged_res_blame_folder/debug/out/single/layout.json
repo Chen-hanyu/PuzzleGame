@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "com.puzzle.game.app-mergeDebugResources-49:/layout/activity_user_info_chy.xml",
+        "source": "com.puzzle.game.app-main-52:/layout/activity_user_info_chy.xml"
+    },
+    {
+        "merged": "com.puzzle.game.app-mergeDebugResources-49:/layout/activity_game_setting_chy.xml",
+        "source": "com.puzzle.game.app-main-52:/layout/activity_game_setting_chy.xml"
+    },
+    {
+        "merged": "com.puzzle.game.app-mergeDebugResources-49:/layout/item_history_chy.xml",
+        "source": "com.puzzle.game.app-main-52:/layout/item_history_chy.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\gradle\\daemon\\8.5\\com.puzzle.game.app-mergeDebugResources-49:\\layout\\activity_main.xml",
+        "source": "D:\\AndroidStudio\\gradle\\daemon\\8.5\\com.puzzle.game.app-main-52:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\gradle\\daemon\\8.5\\com.puzzle.game.app-mergeDebugResources-49:\\layout\\activity_rank.xml",
+        "source": "D:\\AndroidStudio\\gradle\\daemon\\8.5\\com.puzzle.game.app-main-52:\\layout\\activity_rank.xml"
+    },
+    {
+        "merged": "com.puzzle.game.app-mergeDebugResources-49:/layout/activity_register_chy.xml",
+        "source": "com.puzzle.game.app-main-52:/layout/activity_register_chy.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\gradle\\daemon\\8.5\\com.puzzle.game.app-mergeDebugResources-49:\\layout\\activity_mode_select.xml",
+        "source": "D:\\AndroidStudio\\gradle\\daemon\\8.5\\com.puzzle.game.app-main-52:\\layout\\activity_mode_select.xml"
+    },
+    {
+        "merged": "com.puzzle.game.app-mergeDebugResources-49:/layout/activity_history_chy.xml",
+        "source": "com.puzzle.game.app-main-52:/layout/activity_history_chy.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\gradle\\daemon\\8.5\\com.puzzle.game.app-mergeDebugResources-49:\\layout\\activity_register.xml",
+        "source": "D:\\AndroidStudio\\gradle\\daemon\\8.5\\com.puzzle.game.app-main-52:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\gradle\\daemon\\8.5\\com.puzzle.game.app-mergeDebugResources-49:\\layout\\item_rank.xml",
+        "source": "D:\\AndroidStudio\\gradle\\daemon\\8.5\\com.puzzle.game.app-main-52:\\layout\\item_rank.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\gradle\\daemon\\8.5\\com.puzzle.game.app-mergeDebugResources-49:\\layout\\activity_history.xml",
+        "source": "D:\\AndroidStudio\\gradle\\daemon\\8.5\\com.puzzle.game.app-main-52:\\layout\\activity_history.xml"
+    },
+    {
+        "merged": "com.puzzle.game.app-mergeDebugResources-49:/layout/activity_login_chy.xml",
+        "source": "com.puzzle.game.app-main-52:/layout/activity_login_chy.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\gradle\\daemon\\8.5\\com.puzzle.game.app-mergeDebugResources-49:\\layout\\activity_game.xml",
+        "source": "D:\\AndroidStudio\\gradle\\daemon\\8.5\\com.puzzle.game.app-main-52:\\layout\\activity_game.xml"
+    },
+    {
+        "merged": "com.puzzle.game.app-mergeDebugResources-49:/layout/activity_main_chy.xml",
+        "source": "com.puzzle.game.app-main-52:/layout/activity_main_chy.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\gradle\\daemon\\8.5\\com.puzzle.game.app-mergeDebugResources-49:\\layout\\activity_user_info.xml",
+        "source": "D:\\AndroidStudio\\gradle\\daemon\\8.5\\com.puzzle.game.app-main-52:\\layout\\activity_user_info.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\gradle\\daemon\\8.5\\com.puzzle.game.app-mergeDebugResources-49:\\layout\\item_history.xml",
+        "source": "D:\\AndroidStudio\\gradle\\daemon\\8.5\\com.puzzle.game.app-main-52:\\layout\\item_history.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\gradle\\daemon\\8.5\\com.puzzle.game.app-mergeDebugResources-49:\\layout\\activity_login.xml",
+        "source": "D:\\AndroidStudio\\gradle\\daemon\\8.5\\com.puzzle.game.app-main-52:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\gradle\\daemon\\8.5\\com.puzzle.game.app-mergeDebugResources-49:\\layout\\activity_game_setting.xml",
+        "source": "D:\\AndroidStudio\\gradle\\daemon\\8.5\\com.puzzle.game.app-main-52:\\layout\\activity_game_setting.xml"
+    },
+    {
+        "merged": "com.puzzle.game.app-mergeDebugResources-49:/layout/item_rank_chy.xml",
+        "source": "com.puzzle.game.app-main-52:/layout/item_rank_chy.xml"
+    },
+    {
+        "merged": "com.puzzle.game.app-mergeDebugResources-49:/layout/activity_game_chy.xml",
+        "source": "com.puzzle.game.app-main-52:/layout/activity_game_chy.xml"
+    },
+    {
+        "merged": "com.puzzle.game.app-mergeDebugResources-49:/layout/activity_rank_chy.xml",
+        "source": "com.puzzle.game.app-main-52:/layout/activity_rank_chy.xml"
+    }
+]

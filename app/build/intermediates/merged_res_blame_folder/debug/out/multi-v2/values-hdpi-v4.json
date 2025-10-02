@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.puzzle.game.app-mergeDebugResources-48:/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "D:\\AndroidStudio\\gradle\\caches\\transforms-3\\03794321cd5307f7ca6b768fb1c01a38\\transformed\\appcompat-1.6.1\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}

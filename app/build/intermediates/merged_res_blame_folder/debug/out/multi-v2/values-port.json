@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.puzzle.game.app-mergeDebugResources-48:/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "D:\\AndroidStudio\\gradle\\caches\\transforms-3\\03794321cd5307f7ca6b768fb1c01a38\\transformed\\appcompat-1.6.1\\res\\values-port\\values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}

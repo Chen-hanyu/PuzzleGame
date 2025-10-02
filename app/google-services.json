@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "527099567167",
+    "project_id": "game-45e63",
+    "storage_bucket": "game-45e63.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527099567167:android:98cf5db39a9fa9d1ee6c8a",
+        "android_client_info": {
+          "package_name": "com.puzzle.game"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrudCrnAsynsKP9LDHA4LiwM9Ggyg6YtA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
