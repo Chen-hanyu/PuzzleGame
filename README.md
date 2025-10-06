@@ -156,48 +156,16 @@
 - Material Components for Android
 - Firebase（Auth / Cloud Firestore）
 
- > 如果你在使用或二次开发过程中遇到问题，欢迎在 Issue 中反馈。
 
 ---
 
-## 界面截图 / 示意图
 
-以下为建议的截图清单与引用方式。请将你的截图放在 `docs/screenshots/` 目录下，并按建议命名，README 会自动引用。
-
-- 文件组织（建议）
-  - docs/screenshots/login.png（登录）
-  - docs/screenshots/register.png（注册）
-  - docs/screenshots/home.png（主页）
-  - docs/screenshots/game_settings.png（游戏设置）
-  - docs/screenshots/game_play.png（游戏进行中）
-  - docs/screenshots/game_preview.png（按住还原预览）
-  - docs/screenshots/game_completed.png（完成弹窗/完成状态）
-  - docs/screenshots/history.png（历史成绩）
-  - docs/screenshots/leaderboard.png（排行榜）
-  - docs/screenshots/user_info.png（用户中心）
-
-- Markdown 快速引用
-
-```
-![登录](docs/screenshots/login.png)
-![注册](docs/screenshots/register.png)
-![主页](docs/screenshots/home.png)
-![游戏设置](docs/screenshots/game_settings.png)
-![游戏进行中](docs/screenshots/game_play.png)
-![原图预览](docs/screenshots/game_preview.png)
-![完成状态](docs/screenshots/game_completed.png)
-![历史成绩](docs/screenshots/history.png)
-![排行榜](docs/screenshots/leaderboard.png)
-![用户中心](docs/screenshots/user_info.png)
-```
-
-- 三列网格排版（可选，GitHub 支持 HTML）
 
 <table>
   <tr>
     <td><img src="screenshots/login.png" width="260"/><br/>登录</td>
     <td><img src="screenshots/register.png" width="260"/><br/>注册</td>
-    <td><img src="docs/screenshots/home.png" width="260"/><br/>主页</td>
+    <td><img src="screenshots/home.png" width="260"/><br/>主页</td>
   </tr>
   <tr>
     <td><img src="screenshots/game_settings.png" width="260"/><br/>游戏设置</td>
@@ -210,8 +178,9 @@
     <td><img src="screenshots/leaderboard.png" width="260"/><br/>排行榜</td>
   </tr>
   <tr>
+    
     <td><img src="screenshots/user_info.png" width="260"/><br/>用户中心</td>
-    <td></td><td></td>
+    <td><img src="screenshots/firestore_database.png" width="520"/><br/>用户中心</td>
   </tr>
 </table>
 
