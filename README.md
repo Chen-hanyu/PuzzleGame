@@ -123,19 +123,6 @@
 
 ---
 
-## 已知问题与改进建议
-
-- 初始洗牌逻辑可更严谨：
-  - `ChyPuzzleGame.shufflePieces()` 建议在洗牌循环中调用完成性检测，确保初始状态不是完成态。
-- 注册邮箱校验逻辑需修正：
-  - `ChyRegisterActivity` 中的正则判断存在条件反转，应改为“不匹配才提示错误”。
-- 资源与依赖可精简：
-  - 未使用的依赖：Room（含 kapt）、RxAndroid、Firebase Analytics；
-  - 未启用使用的 ViewBinding/DataBinding 可关闭；
-  - 少量未使用 drawable/字体资源可清理；
-  - ViewModel 中个别未用方法/字段可删除，`moves` 可从 `gameState` 直接读取以减少状态重复。
-
----
 
 ## 贡献与开发
 
@@ -156,5 +143,4 @@
 - Material Components for Android
 - Firebase（Auth / Cloud Firestore）
 
-> 如果你在使用或二次开发过程中遇到问题，欢迎在 Issue 中反馈。
 
