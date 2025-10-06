@@ -123,6 +123,19 @@
 
 ---
 
+## 已知问题与改进建议
+
+- 初始洗牌逻辑可更严谨：
+  - `ChyPuzzleGame.shufflePieces()` 建议在洗牌循环中调用完成性检测，确保初始状态不是完成态。
+- 注册邮箱校验逻辑需修正：
+  - `ChyRegisterActivity` 中的正则判断存在条件反转，应改为“不匹配才提示错误”。
+- 资源与依赖可精简：
+  - 未使用的依赖：Room（含 kapt）、RxAndroid、Firebase Analytics；
+  - 未启用使用的 ViewBinding/DataBinding 可关闭；
+  - 少量未使用 drawable/字体资源可清理；
+  - ViewModel 中个别未用方法/字段可删除，`moves` 可从 `gameState` 直接读取以减少状态重复。
+
+---
 
 ## 贡献与开发
 
@@ -142,5 +155,64 @@
 
 - Material Components for Android
 - Firebase（Auth / Cloud Firestore）
+
+ > 如果你在使用或二次开发过程中遇到问题，欢迎在 Issue 中反馈。
+
+---
+
+## 界面截图 / 示意图
+
+以下为建议的截图清单与引用方式。请将你的截图放在 `docs/screenshots/` 目录下，并按建议命名，README 会自动引用。
+
+- 文件组织（建议）
+  - docs/screenshots/login.png（登录）
+  - docs/screenshots/register.png（注册）
+  - docs/screenshots/home.png（主页）
+  - docs/screenshots/game_settings.png（游戏设置）
+  - docs/screenshots/game_play.png（游戏进行中）
+  - docs/screenshots/game_preview.png（按住还原预览）
+  - docs/screenshots/game_completed.png（完成弹窗/完成状态）
+  - docs/screenshots/history.png（历史成绩）
+  - docs/screenshots/leaderboard.png（排行榜）
+  - docs/screenshots/user_info.png（用户中心）
+
+- Markdown 快速引用
+
+```
+![登录](docs/screenshots/login.png)
+![注册](docs/screenshots/register.png)
+![主页](docs/screenshots/home.png)
+![游戏设置](docs/screenshots/game_settings.png)
+![游戏进行中](docs/screenshots/game_play.png)
+![原图预览](docs/screenshots/game_preview.png)
+![完成状态](docs/screenshots/game_completed.png)
+![历史成绩](docs/screenshots/history.png)
+![排行榜](docs/screenshots/leaderboard.png)
+![用户中心](docs/screenshots/user_info.png)
+```
+
+- 三列网格排版（可选，GitHub 支持 HTML）
+
+<table>
+  <tr>
+    <td><img src="docs/screenshots/login.png" width="260"/><br/>登录</td>
+    <td><img src="docs/screenshots/register.png" width="260"/><br/>注册</td>
+    <td><img src="docs/screenshots/home.png" width="260"/><br/>主页</td>
+  </tr>
+  <tr>
+    <td><img src="docs/screenshots/game_settings.png" width="260"/><br/>游戏设置</td>
+    <td><img src="docs/screenshots/game_play.png" width="260"/><br/>游戏进行中</td>
+    <td><img src="docs/screenshots/game_preview.png" width="260"/><br/>原图预览</td>
+  </tr>
+  <tr>
+    <td><img src="docs/screenshots/game_completed.png" width="260"/><br/>完成状态</td>
+    <td><img src="docs/screenshots/history.png" width="260"/><br/>历史成绩</td>
+    <td><img src="docs/screenshots/leaderboard.png" width="260"/><br/>排行榜</td>
+  </tr>
+  <tr>
+    <td><img src="docs/screenshots/user_info.png" width="260"/><br/>用户中心</td>
+    <td></td><td></td>
+  </tr>
+</table>
 
 
