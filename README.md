@@ -195,22 +195,22 @@
 
 <table>
   <tr>
-    <td><img src="docs/screenshots/login.png" width="260"/><br/>登录</td>
-    <td><img src="docs/screenshots/register.png" width="260"/><br/>注册</td>
+    <td><img src="screenshots/login.png" width="260"/><br/>登录</td>
+    <td><img src="screenshots/register.png" width="260"/><br/>注册</td>
     <td><img src="docs/screenshots/home.png" width="260"/><br/>主页</td>
   </tr>
   <tr>
-    <td><img src="docs/screenshots/game_settings.png" width="260"/><br/>游戏设置</td>
-    <td><img src="docs/screenshots/game_play.png" width="260"/><br/>游戏进行中</td>
-    <td><img src="docs/screenshots/game_preview.png" width="260"/><br/>原图预览</td>
+    <td><img src="screenshots/game_settings.png" width="260"/><br/>游戏设置</td>
+    <td><img src="screenshots/game_play.png" width="260"/><br/>游戏进行中</td>
+    <td><img src="screenshots/game_preview.png" width="260"/><br/>原图预览</td>
   </tr>
   <tr>
-    <td><img src="docs/screenshots/game_completed.png" width="260"/><br/>完成状态</td>
-    <td><img src="docs/screenshots/history.png" width="260"/><br/>历史成绩</td>
-    <td><img src="docs/screenshots/leaderboard.png" width="260"/><br/>排行榜</td>
+    <td><img src="screenshots/game_completed.png" width="260"/><br/>完成状态</td>
+    <td><img src="screenshots/history.png" width="260"/><br/>历史成绩</td>
+    <td><img src="screenshots/leaderboard.png" width="260"/><br/>排行榜</td>
   </tr>
   <tr>
-    <td><img src="docs/screenshots/user_info.png" width="260"/><br/>用户中心</td>
+    <td><img src="screenshots/user_info.png" width="260"/><br/>用户中心</td>
     <td></td><td></td>
   </tr>
 </table>
