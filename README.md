@@ -179,7 +179,7 @@
   </tr>
   <tr>
     <td><img src="screenshots/user_info.png" width="260"/><br/>用户中心</td>
-    <td><img src="screenshots/firestore_database.png" width="520"/><br/>用户中心</td>
+    <td colspan="2"><img src="screenshots/firestore_database.png" width="520"/><br/>数据库</td>
   </tr>
 </table>
 
